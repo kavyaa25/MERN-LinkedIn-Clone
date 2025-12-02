@@ -1,0 +1,12 @@
+html, body, #root {
+  height: 100%;
+}
+
+::-webkit-scrollbar {
+  width: 8px;
+  background: #ececec;
+}
+::-webkit-scrollbar-thumb {
+  background: #d3e0ee;
+  border-radius: 10px;
+}
